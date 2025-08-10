@@ -9,7 +9,7 @@ import threading
 from flask import Flask
 
 # ===== إعدادات البوت =====
-TOKEN = "7304421944:AAHllSMsplqTjXVFBcaEmJU3LKVkgBgk_6Q"
+TOKEN = "8049690165:AAEYWPJzpggMfwEXykjG-ybYFc8poRtY9_0"
 CHAT_ID = 5686817749  # ضع ID الخاص بك من @userinfobot
 SEARCH_TERMS = [
     "Transporter", "Multivan", "Transporteur", "Caravelle", "Kombi",
